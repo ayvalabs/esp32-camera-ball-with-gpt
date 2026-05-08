@@ -49,3 +49,4 @@ The original full-resolution video is large, so it is shared as a release asset 
 ├── media/           # Small images or compressed preview assets
 └── README.md
 
+Demo video: Coming soon
